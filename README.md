@@ -1,7 +1,7 @@
 # Fireworks
 Пример для работы с CAEmitterCell + CAEmitterLayer
 
-![Sample](sample.mp4)
+![Sample](sample.gif)
 
 Вы можете использовать этот ресурс как угодно и в любом виде.
 
